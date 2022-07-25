@@ -1,0 +1,6 @@
+Harry Potter,Jk Rowling,26,$2
+Jujutsu Kaisen,Simon Sam,16,$1.5
+Dororo,John Smith,16,$1.5
+One piece,Oda Ba,11,$3.5
+Percy Jackson,Jack Son,13,$4.5
+Tokyo Revengers,Tom Sinek,14,$2.5
